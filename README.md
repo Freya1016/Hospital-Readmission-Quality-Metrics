@@ -7,7 +7,7 @@ Built with advanced formulas, pivot tables, slicers, and combo charts for intera
 ---
 
 ## 📊 **Preview**
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](dashboard.png)
 
 ---
 
